@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = backend
+	url = git@github.com:jackmaster110/soc-media-backend.git
+[submodule "frontend"]
+	path = frontend
+	url = git@github.com:jackmaster110/soc-media-frontend.git
